@@ -1,4 +1,4 @@
-# 🧠 Advanced OCR Suite - Professional Document Processing Platform
+# 🧠 Advanced OCR Suite - Professional Document Processing 
 
 Enterprise-Grade Optical Character Recognition with Built-in Editors & Analytics
 
