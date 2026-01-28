@@ -1,15 +1,6 @@
-🧠 Advanced OCR Suite - Professional Document Processing Platform
-<div align="center">
-https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react
-https://img.shields.io/badge/Material--UI-7.3.5-007FFF?style=for-the-badge&logo=mui
-https://img.shields.io/badge/Tesseract.js-6.0.1-FF6B6B?style=for-the-badge
-https://img.shields.io/badge/PDF-Processing-FF4081?style=for-the-badge
-https://img.shields.io/badge/OCR-AI-Powered-4CAF50?style=for-the-badge
+# 🧠 Advanced OCR Suite - Professional Document Processing Platform
 
 Enterprise-Grade Optical Character Recognition with Built-in Editors & Analytics
-
-https://img.shields.io/github/stars/cypso05/Advanced-OCR-Suite?style=social
-https://img.shields.io/badge/License-MIT-blue.svg
 
 </div>
 🚀 Live Demo
